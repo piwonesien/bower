@@ -53,10 +53,10 @@
     "rimraf": "^2.2.8",
     "semver": "^5.7.2",
     "semver-utils": "^1.1.1",
-    "shell-quote": "^1.4.2",
+    "shell-quote": "^1.8.4",
     "stringify-object": "^1.0.0",
     "tar-fs": "^1.16.6",
-    "tmp": "0.2.6",
+    "tmp": "0.2.7",
     "update-notifier": "^0.6.0",
     "user-home": "^1.1.0",
     "which": "^1.0.8"
